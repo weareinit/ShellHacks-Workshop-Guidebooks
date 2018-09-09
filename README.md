@@ -1,7 +1,7 @@
 # ShellHacks-Workshop-Guidebooks
 Repository of helpfuls guides for each of the workshops happening at ShellHacks 2018
 ## Table of Contents
-- [Website Development Track] (#website-development-track)
+- [Website Development Track](#website-development-track)
 
 ## Website Development Track
 
