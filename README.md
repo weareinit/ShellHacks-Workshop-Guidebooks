@@ -78,7 +78,8 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource:
+    Resource: Make a Wix Account!
+              https://www.wix.com
     
   ReactJS:
   
@@ -109,7 +110,8 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource: 
+    Resource: Create an Azure account
+              https://azure.microsoft.com/en-us/free/
     
   Testing with Spock & Groovy:
   
@@ -119,7 +121,6 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 144
     
-    Resources:
     
   Robotic Process Automation (RPA):
   
@@ -144,9 +145,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Time: Saturday, 9:30PM-10PM
     
     Location: PG6 144
-    
-    Resources:    
- 
+     
 
 
 ## Mobile Dev Track
@@ -161,7 +160,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource:
+    Resource: 
     
   Swift:
   
@@ -171,7 +170,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource:
+    Resource: 
     
 
 
