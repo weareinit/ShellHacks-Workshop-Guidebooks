@@ -82,6 +82,8 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Resource:
     
+![Back-End]
+(https://github.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/blob/master/Back-End.png?raw=true)
 ## Back-End Development Track
     
   Microsoft Azure API Workshop:
