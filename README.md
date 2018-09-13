@@ -7,7 +7,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 - [Mobile Dev Track](#mobile-dev-track)
 - [Hardware Track](#hardware-track)
 - [Technical Interview Prep Track](#technical-interview-prep-track)
-- [Explorer](#Explore-track)
+- [Explorer Track](#Explore-track)
 
  # GitHub:
   
@@ -236,7 +236,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
      
      
      
-## Explorer
+## Explorer Track
 
 ![Explorer Badge](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Explorer.png)
 
