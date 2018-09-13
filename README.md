@@ -35,22 +35,22 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Location: PG6 144
     
     To do BEFORE:
-    Download Anaconda for Python 3.6 for your operating system
+        Download Anaconda for Python 3.6 for your operating system
 
-    Open up the anaconda prompt (you can type anaconda prompt in your OS's search bar and it should be one of the first options):
-    https://www.anaconda.com/download/
+        Open up the anaconda prompt (you can type anaconda prompt in your OS's search bar and it should be one of the first options):
+        https://www.anaconda.com/download/
 
-    Then, in the prompt you will want to write conda install tensorflow and it will download it through the command line
+        Then, in the prompt you will want to write conda install tensorflow and it will download it through the command line
 
-    After that installation you will type pip install keras
+        After that installation you will type pip install keras
 
-    Then pip install scipy
+        Then pip install scipy
 
-    Then pip install scikit-learn
+        Then pip install scikit-learn
 
-    Then pip install numpy
+        Then pip install numpy
 
-    And finally pip install music21
+        And finally pip install music21
 
     
   **Unity:**
@@ -150,8 +150,8 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Location: PG6 144
     
     To download BEFORE: 
-       Community Version of UIPath downloaded: (Community Edition is free, just register & download)
-       https://www.uipath.com/freetrial-or-community
+       - Community Version of UIPath downloaded: (Community Edition is free, just register & download)
+       - https://www.uipath.com/freetrial-or-community
        
     Bonus:
        Look up YouTube videos and tutorials on the UIPath site itself 
