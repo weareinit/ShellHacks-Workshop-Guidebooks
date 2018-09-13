@@ -13,7 +13,9 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
   
     Taught by: GitHub
     
-    Time & Location: Friday, 11PM-11:45PM, PG6 112
+    Time: Friday, 11PM-11:45PM
+    
+    Location: PG6 112
     
     Resource: 
        Look Over: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
@@ -28,7 +30,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
   
     Taught by: Adrian Perez
     
-    Time & Location: Saturday, 2:00AM-2:45AM
+    Time & Location: Saturday, 2:00AM-3:00AM
     
     Location: PG6 144
     
@@ -257,7 +259,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
      Taught by: Fernando Serrano
 
-     Time: Saturday, 7:30PM - 8:15PM
+     Time: Saturday, 4:30PM - 5:00PM
      
      Location: PG6 144
      
