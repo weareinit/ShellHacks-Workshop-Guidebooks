@@ -7,7 +7,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 - [Mobile Dev Track](#mobile-dev-track)
 - [Hardware Track](#hardware-track)
 - [Technical Interview Prep Track](#technical-interview-prep-track)
-- [Explorer Track](#Explorer-track)
+- [Explorer Track](#explorer-track)
 
  # GitHub:
   
