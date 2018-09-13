@@ -88,7 +88,12 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource:
+    To Do Before:
+     - Bring a computer with Windows, Mac, or Linux
+     - Download Node.js https://nodejs.org/en/download/current/
+       If you already have Node.js installed, ensure you have
+       version 8 or more, and that the npm package manager
+       installed is at least version 6.
     
     
     
@@ -124,7 +129,13 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 144
     
-    Resources:
+    To download BEFORE: 
+       Community Version of UIPath downloaded: (Community Edition is free, just register & download)
+       https://www.uipath.com/freetrial-or-community
+       
+    Bonus:
+       Look up YouTube videos and tutorials on the UIPath site itself 
+     
   
   Security:
   
