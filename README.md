@@ -24,7 +24,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
 ![Emerging Tech Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Emerging%20Tech.png)
     
-  Machine Learning:
+  **Machine Learning:**
   
     Taught by: Adrian Perez
     
@@ -32,9 +32,26 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 144
     
-    Resource:
+    To do BEFORE:
+    Download Anaconda for Python 3.6 for your operating system
+
+    Open up the anaconda prompt (you can type anaconda prompt in your OS's search bar and it should be one of the first options):
+    https://www.anaconda.com/download/
+
+    Then, in the prompt you will want to write conda install tensorflow and it will download it through the command line
+
+    After that installation you will type pip install keras
+
+    Then pip install scipy
+
+    Then pip install scikit-learn
+
+    Then pip install numpy
+
+    And finally pip install music21
+
     
-  Unity:
+  **Unity:**
   
     Taught by: Jose Maldonado
     
@@ -50,7 +67,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
 ![Front-End Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Front-End.png)
     
-  HTML/CSS:
+  **HTML/CSS:**
   
     Taught by: German Gomez - Division of IT Professor at FIU 
     
@@ -60,7 +77,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     To download BEFORE: http://brackets.io 
     
-  UI/UX:
+  **UI/UX:**
   
     Taught by: GE Digital
     
@@ -70,7 +87,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Resource:
     
-  Wix Code:
+  **Wix Code:**
   
     Taught by: Wix
     
@@ -81,7 +98,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Resource: Make a Wix Account!
               https://www.wix.com
     
-  ReactJS:
+  **ReactJS:**
   
     Taught by: 4Geeks
     
@@ -102,7 +119,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
 ![Back-End Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Back-End.png)
     
-  Microsoft Azure API Workshop:
+  **Microsoft Azure API Workshop:**
   
     Taught by: Microsoft
     
@@ -113,7 +130,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Resource: Create an Azure account
               https://azure.microsoft.com/en-us/free/
     
-  Testing with Spock & Groovy:
+  **Testing with Spock & Groovy:**
   
     Taught by: JP Morgan Chase
     
@@ -122,7 +139,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Location: PG6 144
     
     
-  Robotic Process Automation (RPA):
+  **Robotic Process Automation (RPA):**
   
     Taught by: World Fuel Services
     
@@ -138,7 +155,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
        Look up YouTube videos and tutorials on the UIPath site itself 
      
   
-  Security:
+  **Security:**
   
     Taught by: Cisco
     
@@ -152,7 +169,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
 ![Mobile Dev Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Mobile%20Dev.png)
 
-  Ionic:
+  **Ionic:**
   
     Taught by: Citrix
     
@@ -162,7 +179,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Resource: 
     
-  Swift:
+  **Swift:**
   
     Taught by: Davone Barrett
     
@@ -178,7 +195,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
 ![Hardware Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Hardware.png)
 
-  Matrix Creator - IoT:
+  **Matrix Creator - IoT:**
   
     Taught by: Matrix
     
@@ -188,7 +205,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Resource: 
     
-   Arduino:
+   **Arduino:**
   
     Taught by: Danny Losada - IEEE
     
@@ -204,7 +221,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
 ![Technical Interview Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Technical%20Interview.png)
 
-   Spotify Talk:
+   **Spotify Talk:**
 
      Taught by: Spotify
 
@@ -212,7 +229,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
      Location: PG6 144
 
-   IT Careers Talk:
+   **IT Careers Talk:**
 
      Taught by: Assurant
 
@@ -220,7 +237,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
      
      Location: PG6 144
  
-   Keeping it Clean: The Art of Clean Code with Google:
+   **Keeping it Clean: The Art of Clean Code with Google:**
 
      Taught by: Google
 
@@ -228,7 +245,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
      
      Location: PG6 112
      
-   IoT Security Chat:
+   **IoT Security Chat:**
 
      Taught by: Akamai
 
@@ -236,7 +253,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
      
      Location: PG6 144
 
-   Java Technical Interview Prep:
+   **Java Technical Interview Prep:**
 
      Taught by: Fernando Serrano
 
