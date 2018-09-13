@@ -10,156 +10,203 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
  # GitHub:
   
-    Taught by:
+    Taught by: GitHub
     
-    Time:
+    Time & Location: Friday, 11PM-11:45PM, PG6 112
     
-    //Resource
+    Resource: 
+       Look Over: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
 ## Emerging Technology Track
-    
-  Unity:
-  
-    Taught by:
-    
-    Time:
-    
-    //Resource
-    
-  Artifical Intelligence:
-  
-    Taught by:
-    
-    Time:
-    
-    //Resource
     
   Machine Learning:
   
-    Taught by:
+    Taught by: Adrian Perez
     
-    Time:
+    Time & Location: Saturday, 2:00AM-2:45AM
     
-    //Resources
+    Location: PG6 144
+    
+    Resource:
+    
+  Unity:
+  
+    Taught by: Jose Maldonado
+    
+    Time: Saturday, 7:00PM-8:00PM
+    
+    Location: PG6 112
+    
+    Resource:
+   
     
 ## Front-End Development Track
     
   HTML/CSS:
   
-    Taught by:
+    Taught by: German Gomez - Division of IT Professor at FIU 
     
-    Time:
+    Time: Saturday, 12AM-1AM 
     
-    //Resource
+    Location: PG6 112
+    
+    To download BEFORE: http://brackets.io 
     
   UI/UX:
   
-    Taught by:
+    Taught by: GE Digital
     
-    Time:
+    Time: Saturday, 1:30AM-2:00AM
     
-    //Resource
+    Location: PG6 112
+    
+    Resource:
+    
+  Wix Code:
+  
+    Taught by: Wix
+    
+    Time: Saturday, 10:00AM - 11:00AM
+    
+    Location: PG6 112
+    
+    Resource:
     
   ReactJS:
   
-    Taught by:
+    Taught by: 4Geeks
     
-    Time:
+    Time: Saturday, 6:15PM-6:45PM
     
-    //Resources
+    Location: PG6 112
+    
+    Resource:
     
 ## Back-End Development Track
     
-  JavaScript:
+  Microsoft Azure API Workshop:
   
-    Taught by:
+    Taught by: Microsoft
     
-    Time:
+    Time: Saturday, 11:30AM-12:00PM
     
-    //Resource
+    Location: PG6 112
     
-  Azure:
+    Resource: 
+    
+  Testing with Spock & Groovy:
   
-    Taught by:
+    Taught by: JP Morgan Chase
     
-    Time:
+    Time: Saturday, 1:15PM-1:45PM
     
-    //Resource
+    Location: PG6 144
     
-  AWS:
+    Resources:
+    
+  Robotic Process Automation (RPA):
   
-    Taught by:
+    Taught by: World Fuel Services
     
-    Time:
+    Time: Saturday, 3:00PM - 3:30PM
     
-    //Resources
+    Location: PG6 144
     
+    Resources:
+  
+  Security:
+  
+    Taught by: Cisco
+    
+    Time: Saturday, 9:30PM-10PM
+    
+    Location: PG6 144
+    
+    Resources:    
     
 ## Mobile Dev Track
+
+  Ionic:
+  
+    Taught by: Citrix
+    
+    Time: Saturday, 12:30PM - 1:00PM
+    
+    Location: PG6 112
+    
+    Resource:
     
   Swift:
   
-    Taught by:
+    Taught by: Davone Barrett
     
-    Time:
+    Time: Saturday, 8:45PM - 9:30PM
     
-    //Resource
+    Location: PG6 112
     
-  Android:
-  
-    Taught by:
+    Resource:
     
-    Time:
-    
-    //Resource
    
 ## Hardware Track
     
-  Arduino:
+  Matrix Creator - IoT:
   
-    Taught by:
+    Taught by: Matrix
     
-    Time:
+    Time: Saturday, 3:45PM - 4:15PM
     
-    //Resource
+    Location: PG6 112
     
-  Raspberry Pi:
+    Resource: 
+    
+   Arduino:
   
-    Taught by:
+    Taught by: Danny Losada - IEEE
     
-    Time:
+    Time: Saturday, 6:00PM - 6:45PM
     
-    //Resource
+    Location: PG6 144
     
-  IoT:
-  
-    Taught by:
-    
-    Time:
-    
-    //Resources
+    To Download BEFORE: https://www.arduino.cc/en/Main/Software
     
  ## Technical Interview Prep Track
 
-  Java:
-  
-    Taught by:
-    
-    Time:
-    
-    //Resource
-    
-  Python:
-  
-    Taught by:
-    
-    Time:
-    
-    //Resource
-    
-  C:
-  
-    Taught by:
-    
-    Time:
-    
-    //Resources
+   Spotify Talk:
+
+     Taught by: Spotify
+
+     Time: Saturday, 11:00AM - 11:30AM
+
+     Location: PG6 144
+
+   IT Careers Talk:
+
+     Taught by: Assurant
+
+     Time: 12:00PM - 12:30PM
+     
+     Location: PG6 144
+ 
+   Keeping it Clean: The Art of Clean Code with Google:
+
+     Taught by: Google
+
+     Time: Saturday, 2:30PM - 3:00PM
+     
+     Location: PG6 112
+     
+   IoT Security Chat:
+
+     Taught by: Akamai
+
+     Time: Saturday, 4:00PM - 4:30PM
+     
+     Location: PG6 144
+
+   Java Technical Interview Prep:
+
+     Taught by: Fernando Serrano
+
+     Time: Saturday, 7:30PM - 8:15PM
+     
+     Location: PG6 144
