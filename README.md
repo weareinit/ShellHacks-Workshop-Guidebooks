@@ -18,6 +18,8 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Resource: 
        Look Over: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
+
+
 ## Emerging Technology Track
 
 ![Emerging Tech Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Emerging%20Tech.png)
@@ -41,10 +43,12 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Location: PG6 112
     
     Resource:
-   
-![Front-End Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Front-End.png)
+
+
 
 ## Front-End Development Track
+
+![Front-End Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Front-End.png)
     
   HTML/CSS:
   
@@ -85,6 +89,8 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Location: PG6 112
     
     Resource:
+    
+    
     
 ## Back-End Development Track
 
@@ -129,10 +135,12 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     Location: PG6 144
     
     Resources:    
-   
-![Mobile Dev Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Mobile%20Dev.png)
+ 
+
 
 ## Mobile Dev Track
+
+![Mobile Dev Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Mobile%20Dev.png)
 
   Ionic:
   
@@ -154,10 +162,12 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Resource:
     
-![Hardware Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Hardware.png)
+
 
 ## Hardware Track
-    
+
+![Hardware Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Hardware.png)
+
   Matrix Creator - IoT:
   
     Taught by: Matrix
@@ -178,9 +188,11 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     To Download BEFORE: https://www.arduino.cc/en/Main/Software
  
-![Technical Interview Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Technical%20Interview.png)
+
 
 ## Technical Interview Prep Track
+
+![Technical Interview Photo](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Technical%20Interview.png)
 
    Spotify Talk:
 
@@ -223,8 +235,9 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
      Location: PG6 144
      
      
+     
 ## Explorer
 
-Complete ANY 4 workshops and recieve an explorer badge!
-
 ![Explorer Badge](https://raw.githubusercontent.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/master/Explorer.png)
+
+Complete ANY 4 workshops and recieve an explorer badge!
