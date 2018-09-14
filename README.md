@@ -87,7 +87,6 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource:
     
   **Wix Code:**
   
