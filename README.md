@@ -179,9 +179,21 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource: 
+    To do BEFORE:
+       - Visual Studio Code
+         https://code.visualstudio.com/download
+       - Cordova extension in Visual Studio Code
+         Once VSCode is downloaded you can browse through extensions, for further instruction: 
+         https://code.visualstudio.com/docs/editor/extension-gallery
+       - NodeJS
+         https://nodejs.org/en/download/current/
+       - Node Packages (installed globally):
+            Cordova & Ionic
+            Just type this command after downloading NodeJS and VSCode:
+            npm install -g ionic cordova
+         
     
-  **Swift:**
+  **Swift & iOS Devlopment:**
   
     Taught by: Davone Barrett
     
@@ -189,7 +201,12 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 112
     
-    Resource: 
+    To do download BEFORE:
+          XCode
+          https://developer.apple.com/xcode/
+          
+          NOTE: XCode is designed for Mac OS, but if you want to try to use it on a Windows please reference:
+          https://blog.udemy.com/xcode-on-windows/
     
 
 
