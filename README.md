@@ -209,7 +209,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
    **Arduino:**
   
-    Taught by: Danny Losada - IEEE
+    Taught by: Manny Losada - IEEE
     
     Time: Saturday, 6:00PM - 6:45PM
     
