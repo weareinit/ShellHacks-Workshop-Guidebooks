@@ -83,6 +83,9 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     To download BEFORE: http://brackets.io 
     
+    POST Workshop Information: 
+         https://github.com/ShellHacksFIU/ShellHacks-Workshop-Guidebooks/tree/master/HTML_CSS_Workshop_Information
+    
   **UI/UX:**
   
     Taught by: GE Digital
