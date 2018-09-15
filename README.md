@@ -11,7 +11,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
  # GitHub:
   
-    Taught by: GitHub
+    Taught by: Rafael Hernandez
     
     Time: Friday, 11:10PM-12:10PM
     
@@ -20,6 +20,9 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     To do BEFORE: 
        DOWNLOAD GIT: https://git-scm.com/downloads
        Look Over: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+       
+    POST Workshop Information: (Presentation Rafael made!)
+       https://rslay.github.io/Github-Workshop/
        
 
 
