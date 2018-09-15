@@ -13,7 +13,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
   
     Taught by: GitHub
     
-    Time: Friday, 11PM-11:45PM
+    Time: Friday, 11:10PM-12:10PM
     
     Location: PG6 114
     
@@ -74,7 +74,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
   
     Taught by: German Gomez - Division of IT Professor at FIU 
     
-    Time: Saturday, 12AM-1AM 
+    Time: Saturday, 12:15AM-1:15AM 
     
     Location: PG6 114
     
