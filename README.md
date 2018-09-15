@@ -15,11 +15,12 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Friday, 11PM-11:45PM
     
-    Location: PG6 112
+    Location: PG6 114
     
-    Resource: 
+    To do BEFORE: 
+       DOWNLOAD GIT: https://git-scm.com/downloads
        Look Over: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-
+       
 
 
 ## Emerging Technology Track
@@ -59,7 +60,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 7:00PM-8:00PM
     
-    Location: PG6 112
+    Location: PG6 114
     
     Resource:
 
@@ -75,7 +76,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 12AM-1AM 
     
-    Location: PG6 112
+    Location: PG6 114
     
     To download BEFORE: http://brackets.io 
     
@@ -85,7 +86,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 1:30AM-2:00AM
     
-    Location: PG6 112
+    Location: PG6 114
     
     
   **Wix Code:**
@@ -94,7 +95,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 10:00AM - 11:00AM
     
-    Location: PG6 112
+    Location: PG6 114
     
     Resource: Make a Wix Account!
               https://www.wix.com
@@ -105,7 +106,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 6:15PM-6:45PM
     
-    Location: PG6 112
+    Location: PG6 114
     
     To Do Before:
      - Bring a computer with Windows, Mac, or Linux
@@ -126,7 +127,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 11:30AM-12:00PM
     
-    Location: PG6 112
+    Location: PG6 114
     
     Resource: Create an Azure account
               https://azure.microsoft.com/en-us/free/
@@ -176,7 +177,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 12:30PM - 1:00PM
     
-    Location: PG6 112
+    Location: PG6 114
     
     To do BEFORE:
        - Visual Studio Code
@@ -198,7 +199,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 8:45PM - 9:30PM
     
-    Location: PG6 112
+    Location: PG6 114
     
     To do download BEFORE:
           XCode
@@ -219,7 +220,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Time: Saturday, 3:45PM - 4:15PM
     
-    Location: PG6 112
+    Location: PG6 114
     
     Resource: 
     
@@ -261,7 +262,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
      Time: Saturday, 2:30PM - 3:00PM
      
-     Location: PG6 112
+     Location: PG6 114
      
    **IoT Security Chat:**
 
