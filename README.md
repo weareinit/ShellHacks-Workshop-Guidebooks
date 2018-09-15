@@ -142,7 +142,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
   
     Taught by: JP Morgan Chase
     
-    Time: Saturday, 1:15PM-1:45PM
+    Time: Saturday, 10:00AM-10:30AM
     
     Location: PG6 144
     
@@ -282,7 +282,7 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
 
      Taught by: Fernando Serrano
 
-     Time: Saturday, 4:30PM - 5:00PM
+     Time: Saturday, 1:00PM - 1:45PM
      
      Location: PG6 144
      
