@@ -65,7 +65,21 @@ Repository of helpfuls guides for each of the workshops happening at ShellHacks 
     
     Location: PG6 114
     
-    Resource:
+    TODO Before:
+
+        Download Latest Version of Unity3D from https://unity3d.com/
+
+        Install Unity thorough the installer, and create a free 
+        personal account. 
+
+        Resources:
+
+        Unity Tutorials: https://unity3d.com/learn
+        Lern C#/.NET: https://www.learncs.org/
+        Unity Forums: https://forum.unity.com/
+        Unity ARKit: https://blogs.unity3d.com/2018/02/16/developing-for-arkit-1-5-update-using-unity-arkit-plugin/
+        Unity ARCore: https://unity3d.com/partners/google/arcore
+        Unity Oculus: https://developer.oculus.com/documentation/unity/latest/concepts/book-unity-gsg/
 
 
 
