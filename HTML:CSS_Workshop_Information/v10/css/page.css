@@ -1,0 +1,50 @@
+html {
+    background: gold;
+}
+
+body {
+    width: 400px;
+    margin: auto;
+    font-family: monospace;
+}
+
+nav {
+    border: 1px solid;
+}
+
+li:first-child {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+
+
+@media only screen and (max-width: 500px) {
+
+    html {
+        background: white;
+    }
+
+
+    body {
+        width: 100%;
+    }
+
+
+    nav {
+        border: none;
+    }
+
+    section {
+        padding: 20px 10px
+    }
+
+    section:nth-child(even) {
+        background: rgb(225, 225, 225);
+
+    }
+}

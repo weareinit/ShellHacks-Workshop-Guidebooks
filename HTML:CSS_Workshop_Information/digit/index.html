@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+        
+        div.digit {
+            display: inline-block;
+            height: 200px;
+            width: 100px;
+            box-sizing: border-box;
+            position: relative;
+        }
+
+        span {
+            background: black;
+            box-sizing: content-box;
+            display: block;
+            position: absolute;
+            opacity: 1;
+        }
+
+        span.x {
+            height: 20px;
+            width: 60px;
+        }
+
+        span.y {
+            height: 60px;
+            width: 20px;
+
+        }
+
+        span:before,
+        span:after {
+            content: "";
+            display: inline-block;
+            position: absolute;
+        }
+
+        span.x:before,
+        span.x:after {
+            border-style: solid;
+            border-top-color: transparent;
+            border-top-width: 10px;
+            border-bottom-color: transparent;
+            border-bottom-width: 10px;
+        }
+
+        span.x:before {
+            border-right-color: black;
+            border-right-width: 10px;
+            border-left-color: transparent;
+            border-left-width: 0px;
+            left: -10px;
+        }
+
+        span.x:after {
+            border-left-color: black;
+            border-left-width: 10px;
+            border-right-color: transparent;
+            border-right-width: 0px;
+            right: -10px;
+        }
+
+        span.y:before,
+        span.y:after {
+            border-style: solid;
+            border-left-color: transparent;
+            border-left-width: 10px;
+            border-right-color: transparent;
+            border-right-width: 10px;
+        }
+
+        span.y:before {
+            border-top-color: black;
+            border-top-width: 10px;
+            border-bottom-color: transparent;
+            border-bottom-width: 0px;
+            bottom: -10px;
+        }
+
+        span.y:after {
+            border-bottom-color: black;
+            border-bottom-width: 10px;
+            border-top-color: transparent;
+            border-top-width: 0px;
+            top: -10px;
+        }
+
+        span.segment-a,
+        span.segment-d,
+        span.segment-g {
+            left: 20px;
+        }
+
+        span.segment-a {
+            top: 0px;
+        }
+
+        span.segment-b,
+        span.segment-c {
+            top: 25px;
+        }
+
+        span.segment-b,
+        span.segment-e {
+            left: 0px;
+        }
+
+        span.segment-c,
+        span.segment-f {
+            left: 80px;
+        }
+
+        span.segment-d {
+            top: 90px;
+        }
+
+        span.segment-e,
+        span.segment-f {
+            top: 115px;
+        }
+
+        span.segment-g {
+            top: 180px;
+        }
+
+        div.number-1 span.segment-a,
+        div.number-1 span.segment-b,
+        div.number-1 span.segment-d,
+        div.number-1 span.segment-e,
+        div.number-1 span.segment-g {
+            opacity: .1;
+        }
+
+        div.number-2 span.segment-b,
+        div.number-2 span.segment-f {
+            opacity: .1;
+        }
+
+        div.number-3 span.segment-b,
+        div.number-3 span.segment-e {
+            opacity: .1;
+        }
+
+        div.number-4 span.segment-a,
+        div.number-4 span.segment-e,
+        div.number-4 span.segment-g {
+            opacity: .1;
+        }
+
+
+        div.number-5 span.segment-c,
+        div.number-5 span.segment-e {
+            opacity: .1;
+        }
+
+        div.number-6 span.segment-a,
+        div.number-6 span.segment-c {
+            opacity: .1;
+        }
+
+        div.number-7 span.segment-b,
+        div.number-7 span.segment-d,
+        div.number-7 span.segment-e,
+        div.number-7 span.segment-g {
+            opacity: .1;
+        }
+
+        div.number-8 span.segment-a,
+        div.number-8 span.segment-b,
+        div.number-8 span.segment-c,
+        div.number-8 span.segment-d,
+        div.number-8 span.segment-e,
+        div.number-8 span.segment-f,
+        div.number-8 span.segment-g {
+            opacity: 1;
+        }
+
+        div.number-9 span.segment-e,
+        div.number-9 span.segment-g {
+            opacity: .1;
+        }
+
+        div.number-0 span.segment-d {
+            opacity: .1;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+
+    <div class="digit number-0">
+        <span class="x segment-a"></span>
+        <span class="y segment-b"></span>
+        <span class="y segment-c"></span>
+        <span class="x segment-d"></span>
+        <span class="y segment-e"></span>
+        <span class="y segment-f"></span>
+        <span class="x segment-g"></span>
+    </div>
+
+
+</body>
+
+</html>

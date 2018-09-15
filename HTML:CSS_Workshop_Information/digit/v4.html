@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+        div.digit {
+            display: inline-block;
+            height: 200px;
+            width: 100px;
+            box-sizing: border-box;
+            position: relative;
+            background: rgb(240,240,240);
+        }
+
+        span {
+            background: black;
+            display: block;
+            position: absolute;
+        }
+
+        span.x {
+            height: 20px;
+            width: 60px;
+        }
+
+        span.y {
+            width: 20px;
+            height: 70px;
+        }
+
+        
+        span.segment-a {
+            top: 0px;
+            left: 10px;
+        }
+        
+        span.segment-a,
+        span.segment-d,
+        span.segment-g {
+            left: 20px;
+            
+        }
+        
+        span.segment-b,
+        span.segment-c {
+            top: 20px;
+            
+        }
+        
+        span.segment-d {
+            top: 90px;
+            
+        }
+        
+        span.segment-e,
+        span.segment-f {
+            top: 110px;
+            
+        }
+        
+        span.segment-c,
+        span.segment-f {
+            left: 80px;
+        }
+        span.segment-g {
+            top: 180px;
+            
+        }
+        
+    </style>
+
+</head>
+
+<body>
+    <div class="digit ">
+        <span class="x segment-a"></span>
+        <span class="y segment-b"></span>
+        <span class="y segment-c"></span>
+        <span class="x segment-d"></span>
+        <span class="y segment-e"></span>
+        <span class="y segment-f"></span>
+        <span class="x segment-g"></span>
+    </div>
+</body>
+
+</html>
